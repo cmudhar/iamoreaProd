@@ -1,0 +1,35 @@
+﻿{
+	"Admin": {
+
+	},
+	"Escrow": {
+
+	},
+	"General": {
+
+	},
+	"HOME": {
+		"findHome": "Fine me Home"
+	},
+	"Listing": {
+
+	},
+	"Loan": {
+
+	},
+	"Offer": {
+
+	},
+	"Provider": {
+
+	},
+	"Security": {
+
+	},
+	"System": {
+
+	},
+	"WorkOrder": {
+
+	}
+}
