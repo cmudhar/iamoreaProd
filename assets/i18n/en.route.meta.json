@@ -1,0 +1,286 @@
+﻿{
+  "default": {
+    "title": "IAMOREA",
+    "description": "IAMOREA",
+    "ogTitle": "IAMOREA"
+  },
+  "login": {
+    "title": "Login",
+    "description": "Login/Sign In",
+    "ogTitle": "Login/Sign In to IAMOREA"
+  },
+  "forgotpassword": {
+    "title": "Forgot Password",
+    "description": "Forgot Password"
+  },
+  "unsubscribe": {
+    "title": "Unsubscribe",
+    "description": "Unsubscribe"
+  },
+  "register": {
+    "title": "Register",
+    "description": "Register to IAMOREA",
+    "ogTitle": "Register to IAMOREA",
+    "service": {
+      "title": "Buy/Renew Services",
+      "description": "Buy or Renew Services"
+    }
+  },
+  "contactus": {
+    "title": "Contact IAMOREA",
+    "description": "Contact IAMOREA"
+  },
+  "about": {
+    "title": "About IAMOREA",
+    "description": "About IAMOREA"
+  },
+  "privacypolicy": {
+    "title": "IAMOREA - Privacy Policy",
+    "description": "IAMOREA - Privacy Policy"
+  },
+  "termsofuse": {
+    "title": "IAMOREA - Terms of Use",
+    "description": "IAMOREA - Terms of Use"
+  },
+  "security": {
+    "title": "IAMOREA - Security Declarations",
+    "description": "IAMOREA - Security Declarations"
+  },
+  "p": {
+    "title": "",
+    "description": ""
+  },
+  "account": {
+    "title": "IAMOREA",
+    "description": "IAMOREA",
+    "profile": {
+      "title": "User Profile",
+      "description": "Manage User Profile"
+    },
+    "invite": {
+      "title": "Invite Friend/Family",
+      "description": "Invite a Friend or Family Member"
+    },
+    "appointments": {
+      "title": "Appointments",
+      "description": "Manage Appointments"
+    },
+    "certifications": {
+      "title": "Certifications",
+      "description": "Manage Certifications"
+    },
+    "verifycertifications": {
+      "title": "Verify Certifications",
+      "description": "Verify certifications pending verifications"
+    },
+    "messages": {
+      "title": "Messages",
+      "description": "InBox and Sent Items"
+    },
+    "welcome": {
+      "title": "Welcome/Dashboard",
+      "description": "Transaction Summary"
+    },
+    "changepassword": {
+      "title": "Change Password",
+      "description": "Change Password"
+    }
+  },
+  "company": {
+    "title": "IAMOROEA Providers",
+    "description": "IAMOREA Sercvice Providers",
+    "profile": {
+      "title": "Company Profile",
+      "description": "Manage Company Profile"
+    },
+    "licenses": {
+      "title": "Licenses",
+      "description": "Manage Company Licenses"
+    },
+    "insuracnces ": {
+      "title": "Insurances",
+      "description": "Manage Company Insurances"
+    },
+    "staff": {
+      "title": "Company Staff",
+      "description": "Manage Company Staff"
+    },
+    "bids": {
+      "title": "Bids/RFQs",
+      "description": "Bids and Request for Quotes"
+    },
+    "visits": {
+      "title": "Visits",
+      "description": "Visits"
+    },
+    "search": {
+      "title": "Search Service Provider",
+      "description": "Search Service Provider"
+    }
+  },
+  "agent": { "lookup": "company" },
+  "provider": {
+    "title": "Providers",
+    "description": "Providers",
+    "pricelist": {
+      "title": "Price List",
+      "description": "Service Provider Price List Management"
+    },
+    "offeredservices": {
+      "title": "Offered Services",
+      "description": "Service Provider Offered Services"
+    }
+  },
+  "submit": {
+    "title": "Work Orders",
+    "description": "Work Orders",
+    "report": {
+      "title": "Submit Work Order Report",
+      "description": "Submit Work Order Report"
+    }
+  },
+  "workorder": {
+    "title": "Work Orders",
+    "description": "Work Orders",
+    "workorders": {
+      "title": "Work Orders",
+      "description": "Work Orders"
+    }
+  },
+  "listing": {
+    "title": "Listing",
+    "description": "Listing",
+    "listing": {
+      "title": "Listing",
+      "description": "Listing"
+    },
+    "detail": {
+      "title": "Property Details",
+      "description": "Property Detail"
+    },
+    "listings": {
+      "title": "My Listings",
+      "description": "Listings for Sale"
+    },
+    "listingoffers": {
+      "title": "Offers",
+      "description": "Offer for My Listings"
+    },
+    "viewing": {
+      "title": "Visitors/Open House",
+      "description": "Visitors/Open House"
+    },
+    "revoke": {
+      "title": "Revoke/Cancel Listing",
+      "description": "Revoke/Cancel"
+    },
+    "status": {
+      "title": "Property Status",
+      "description": "Property Status"
+    },
+    "escrow": {
+      "title": "Escrow Details",
+      "description": "Escrow Details"
+    },
+    "newproperty": {
+      "title": "Add New Property",
+      "description": "Add Property to Submit Offer"
+    },
+    "newlisting": {
+      "title": "List My Property",
+      "description": "List My Property for Sale"
+    },
+    "workorders": {
+      "title": "Work Orders",
+      "description": "Seller Work Orders"
+    },
+    "compare": {
+      "title": "Offer Compare",
+      "description": "Offer Compare"
+    }
+  },
+  "home": {
+    "title": "Search Home",
+    "description": "Search Home and/or Properties"
+  },
+  "buyer": { "lookup": "listing" },
+  "seller": { "lookup": "listing" },
+  "system": {
+    "title": "IAMOREA",
+    "description": "IAMOREA",
+    "refresh": {
+      "title": "Refresh Cache",
+      "description": "Refresh Cache"
+    },
+    "publish": {
+      "title": "Publish Content",
+      "description": "Publish Content"
+    },
+    "statemachine": {
+      "title": "State Machine",
+      "description": "State Machine"
+    },
+    "codes": {
+      "title": "Codes",
+      "description": "Codes"
+    }
+  },
+  "offer": {
+    "title": "IAMOREA",
+    "description": "IAMOREA",
+    "myoffers": {
+      "title": "My Offers",
+      "description": "My Offers"
+    },
+    "offer": {
+      "title": "Offer",
+      "description": "Offer"
+    },
+    "cancelpurchase": {
+      "title": "Cancel Purchase",
+      "description": "Cancel Purchase"
+    }
+  },
+  "loan": {
+    "loan": {
+      "title": "Loan",
+      "description": "Loan"
+    },
+    "loans": {
+      "title": "Loans",
+      "description": "Loans"
+    }
+  },
+  "help": {
+    "title": "How To",
+    "description": "How to / FAQ",
+    "glossary": {
+      "title": "Terminology",
+      "description": "Real Estate Terminology"
+    }
+  },
+  "campaign": {
+    "title": "Campaign",
+    "description": "Campaign"
+  },
+  "admin": {
+    "title": "IAMOREA",
+    "description": "IAMOREA",
+    "legal": {
+      "title": "Legal Terms",
+      "description": "Legal Terms"
+    },
+    "setupsp": {
+      "title": "Setup New Provider",
+      "description": "Setup New Service Provider"
+    },
+    "assets": {
+      "title": "Manage Assets",
+      "description": "Manage Assets"
+    },
+    "product": {
+      "title": "Manage Products",
+      "description": "Manage Products"
+    }
+  }
+}

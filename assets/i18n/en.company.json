@@ -1,0 +1,18 @@
+﻿{
+	"Loan": {
+		"ContingencyAdded": "Contingency added and applicants notified.",
+		"ContingencyFulFilled": "Contingency fulfilled and lender has been notified.",
+		"DisclosureSent": "Disclosure(s) sent to Applicant(s)",
+		"DisclosureNotSent": "Disclosure(s) were not sent, either you have not defined any disclosure or content for Disclosure is missing",
+		"FailedGetFundingMessage": "Failed getting Funding message. You may not be authorized or application has not be processed to a cetain point.",
+		"LockRequestSent": "Rate lock request sent to Applicant(s).",
+		"IAgreeToRateLockTerms": "I agree to rate lock agreement",
+		"ViewLockAgreement": "View/Download Rate lock agreement",
+		"LockAgreementNotAvailable": "Rate Lock agreement not provided by Lender and is not available.",
+		"RateLocked": "Rate locked successfully, and Lender has been notified.",
+		"LinkedToEscrow": "Loan is to Linked to an Escrow'",
+		"RemovedFromEscrow": "Loan has been removed from Escrow.",
+		"Approved": "Final approval for the lien has been recorded, contingent upon previously added conditions. Notifications has been sent to Applicant(s) and escrow, if required",
+		"PreApproved": "Pre approval notfication sent to Applicant(s)"
+	}
+}

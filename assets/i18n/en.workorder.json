@@ -1,0 +1,8 @@
+﻿{
+	"Workorder": {
+		"Visit": {
+			"NoStaff": "There is staff for required skills to fulfill this request"
+		},
+		"WorkOrderCompleted" :  "Work Order Completion status updated"
+	}
+}

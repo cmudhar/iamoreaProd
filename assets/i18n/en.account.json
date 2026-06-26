@@ -1,0 +1,5 @@
+﻿{
+	"Account": {
+		"errTransactionInProgressCannotChangeName" :  "Your buying or selling a HOME, you cannot change your name. You can cancel the transaction or complete before you can change your name."
+	}
+}
